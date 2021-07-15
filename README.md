@@ -16,7 +16,7 @@
    1. [Rankings](https://github.com/EuroAreaStatistics/display/tree/master/03/chartTypes/barsTable)
    2. [Trends](https://github.com/EuroAreaStatistics/display/tree/master/03/chartTypes/standardChart)
    3. [Maps](https://github.com/EuroAreaStatistics/display/tree/master/03/chartTypes/mapChartWizard)
-   4. Special visualisations
+   4. [Special visualisations](https://github.com/EuroAreaStatistics/insights-visualisations)
 5. Visual publication
    1. [Money, credit and central bank interest rates](https://github.com/EuroAreaStatistics/visual-publication/tree/interest_rates)
    2. [Inflation](https://github.com/EuroAreaStatistics/visual-publication/tree/inflation)
