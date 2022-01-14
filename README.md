@@ -18,6 +18,7 @@
    2. [Translator editor](https://github.com/EuroAreaStatistics/back-office/tree/master/edit)
    3. [Project wizard](https://github.com/EuroAreaStatistics/back-office/tree/master/wizard)
       1. [Storage layer](https://github.com/EuroAreaStatistics/back-office/tree/master/wizard/classes)
+   4. [Spider (monitoring script)](https://github.com/EuroAreaStatistics/back-office/tree/master/spider)
 5. [Display](https://github.com/EuroAreaStatistics/display)
    1. [Rankings](https://github.com/EuroAreaStatistics/display/tree/master/03/chartTypes/barsTable)
    2. [Trends](https://github.com/EuroAreaStatistics/display/tree/master/03/chartTypes/standardChart)
